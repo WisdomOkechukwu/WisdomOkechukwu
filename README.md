@@ -2,8 +2,9 @@
 - 👀 I’m interested in developing Web Apps.
 - 🌱 I’m currently learning Algorithms and Data Structure
 - 💞️ I’m looking to collaborate on new ideas to change Africa
-- 📫 How to reach me 
-instagram @thewisdomokechukwu
+- 📫 How to reach me
+LinkedIN @Wisdom Okechukwu
+Instagram @thewisdomokechukwu
 facebook @Wisdom Okechukwu
 
 <!---
